@@ -9,7 +9,7 @@
 /* Global Variables */
 // Create an array called students, start empty. 
 // Create an array called picked, start empty. 
-
+[]
 /* Function Main()
  * Set variable count to asking how many students there are.
  * Fill global array students by passing count as an argument to addStudents
